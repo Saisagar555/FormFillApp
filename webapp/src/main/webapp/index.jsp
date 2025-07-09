@@ -6,7 +6,7 @@
     <br>
  
     [200~<label for="Name"><b>Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <input type="text" placeholder="Enter Name" name="Nmae" id="Name" required>
     <br>
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
